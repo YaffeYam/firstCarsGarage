@@ -1,1 +1,1 @@
-This is the first time using icecream (ic) in an array
+This is the first time using icecream (ic) in an array as well as setting up a virtual environment
